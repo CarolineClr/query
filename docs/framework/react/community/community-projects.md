@@ -134,6 +134,12 @@ Generate React Query hooks based on Swagger API definitions
 
 Link: https://github.com/Shaddix/react-query-swagger
 
+## Shadcn-admin-kit
+
+Powerful open-source shadcn components to build beautiful internal tools, admin panels, and dashboards with React.
+
+Link: https://github.com/marmelab/shadcn-admin-kit
+
 ## Suspensive React Query
 
 Enhances React Query with Suspense support, allowing for simpler and more declarative data fetching
